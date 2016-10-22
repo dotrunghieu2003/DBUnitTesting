@@ -2,4 +2,6 @@
 <dataset>
 	<Person id="0" title="Mr" first_name="Phillip" last_name="Webb"/>
 	<Person id="1" title="Mr" first_name="Fred" last_name="Bloggs"/>
+	<Person id="2" title="Mr" first_name="Giang" last_name="Do"/>
+	<Person id="3" title="Mrs" first_name="Do" last_name="Loan"/>
 </dataset>
