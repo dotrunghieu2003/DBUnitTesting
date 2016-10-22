@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataset>
-	<Person id="0" title="Mr" firstName="Phillip" lastName="Webb"/>
+	<person id="0" title="Mr" first_name="Phillip" last_name="Webb"/>
 </dataset>
